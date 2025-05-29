@@ -1,3 +1,3 @@
  
-LAST VERSION OF PROJECT
-available at: https://einfachdeutsch2.pages.dev/
+LAST VERSION OF MY PROJECT
+available at: https://einfachdeutsch0.pages.dev/
